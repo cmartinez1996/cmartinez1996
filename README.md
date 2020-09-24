@@ -39,3 +39,27 @@ export default () => ({
   interests: ["RxJS", "linux", "open-source"]
 });
 ```
+<hr/>
+
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=cmartinez1996&show_icons=true&theme=ligth&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cmartinez1996&hide=css,java,html&theme=ligth">
+</p>
+
+</details>
+
+<hr/>
+
+<details> 
+ <summary>🤖 <b>My programming stats</b>: </summary>
+<br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</details>
