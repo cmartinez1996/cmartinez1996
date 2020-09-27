@@ -60,7 +60,7 @@ export default () => ({
 <br>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5463%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5762%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
