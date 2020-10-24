@@ -60,7 +60,7 @@ export default () => ({
 <br>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5463%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13334%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -89,10 +89,10 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 🔥 Editors: 
-VS Code                  9 hrs 41 mins       █████████████████████████   100.0%
+VS Code                  3 hrs 2 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  9 hrs 41 mins       █████████████████████████   100.0%
+Windows                  3 hrs 2 mins        █████████████████████████   100.0%
 
 ```
 
