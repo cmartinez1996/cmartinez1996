@@ -89,10 +89,10 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 58 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 58 mins       █████████████████████████   100.0%
 
 ```
 
