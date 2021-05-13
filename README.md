@@ -47,8 +47,8 @@ export default () => ({
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=cmartinezsv96&show_icons=true&theme=ligth&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cmartinezsv96&hide=css,java,html&theme=ligth">
+  <img src = "https://github-readme-stats.vercel.app/api?username=cmartinezsv1996&show_icons=true&theme=ligth&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cmartinezsv1996&hide=css,java,html&theme=ligth">
 </p>
 
 </details>
